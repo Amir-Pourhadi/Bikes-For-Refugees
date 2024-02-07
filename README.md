@@ -1,12 +1,7 @@
 <div align="center">
 
   [![wakatime](https://wakatime.com/badge/github/Amir-Pourhadi/CYF-Bikes-For-Refugees.svg)](https://wakatime.com/badge/github/Amir-Pourhadi/CYF-Bikes-For-Refugees)
-  [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_CYF-Bikes-For-Refugees&metric=ncloc)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_CYF-Bikes-For-Refugees)
-  [![CodeFactor](https://www.codefactor.io/repository/github/amir-pourhadi/cyf-bikes-for-refugees/badge)](https://www.codefactor.io/repository/github/amir-pourhadi/cyf-bikes-for-refugees)  
-  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_CYF-Bikes-For-Refugees&metric=alert_status)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_CYF-Bikes-For-Refugees)
-  [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_CYF-Bikes-For-Refugees&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_CYF-Bikes-For-Refugees)
-  [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_CYF-Bikes-For-Refugees&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_CYF-Bikes-For-Refugees)
-  [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_CYF-Bikes-For-Refugees&metric=security_rating)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_CYF-Bikes-For-Refugees)
+
 </div>
 
 # bikes-for-refugees
